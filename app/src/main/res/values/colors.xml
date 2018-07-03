@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/HTW_green</color>
+    <color name="colorPrimaryDark">@color/HTW_dark_green</color>
+    <color name="colorAccent">#607D8B</color>
+
+    <color name="HTW_green">#76b900</color>
+    <color name="HTW_dark_green">#3b5c00</color>
+</resources>
